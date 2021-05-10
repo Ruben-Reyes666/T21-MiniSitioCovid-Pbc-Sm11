@@ -1,0 +1,113 @@
+.a{
+    background: url(b.jpg);
+    width: auto;
+    height: auto;
+    align-content: center
+}
+.color{
+    background:#FF0CC0;
+}
+.d{
+    background: url(d.jpg);
+    width: auto;
+    height: auto;
+    align-content: center
+}
+.e{
+    background: url(e.jpg);
+    width: auto;
+    height: auto;
+    align-content: center;
+}
+h1{
+    font-size: 25pt;
+    background:#1ABC9C;
+    border:15pt inset  #34495E;
+    color: #FDFEFE;
+    font-family: serif;
+    text-align: center;
+    border-color: #34495E;
+}
+h2{
+    font-size: 18pt;
+    background:#F1C40F;
+    border:15pt inset  #D35400;
+    color: #2E4053;
+    font-family: serif;
+    text-align: center;
+    border-color: #C0392B;
+}
+h3{ 
+    font-size: 16pt;
+    background:#EC95D2;
+    border:3pt inset  #FF07B4;
+    color: #000000;
+    font-family: fantasy;
+    text-align:center;
+    border-color: #F250C1;
+}
+.indice3{
+    height: auto;
+    width: auto;
+    font-size: pt;
+    border-style: dashed;
+    font-family: serif;
+    text-align: center;
+}
+div{
+    height: 20px;
+    width: 1200px;
+    background: #A9CCE3;
+    margin: 50px;
+    padding: 20px;
+    border: 5px ridge #2E4053;
+    display:inline-block;
+    border-style: double;
+    position: relative;
+    margin-right: auto;
+    float:left;
+}
+
+
+table, th, td{
+    height: 108px;
+    width: 75px;
+    border: 1px outside silver;
+    border-collapse: collapse;
+}
+.a2{
+    font-size: 15pt;
+    background:#2874A6;
+    border:15pt inset  #2E4053;
+    color: black;
+    font-family: serif;
+    text-align: center;
+    border-color: #148F77;
+}
+ul{
+    font-size: 12pt;
+    color: black;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: 700;
+}
+.izquierda2
+{
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+    width: 280px;
+    float:right;
+    align-content: center
+}
+.izquierda
+{
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+    width: 280px;
+    float:left;
+    align-content: center
+}

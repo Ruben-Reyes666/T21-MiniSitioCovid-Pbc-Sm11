@@ -1,0 +1,104 @@
+.c{
+    background: url(c.jpg);
+    width: auto;
+    height: auto;
+    align-content: center;
+}
+.fondo{
+    background: url(fondos.png);
+    background-position: center;
+    background-attachment: fixed
+}
+body{
+    background: url(nuevo%20fondo.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
+h1{
+    background:#F1C40F;
+    border-style: double;
+    color: blue; font-family: serif;
+    text-align: center;
+}
+table, th, td{
+    height: 108px;
+    width: 75px;
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+div{
+    height: 900px;
+    width: 1100px;
+    background: #D4AC0D;
+    margin: 50px;
+    padding: 20px;
+    border: 5px solid #A569BD;
+    display:inline-block;
+    border-style: double;
+    position: relative;
+    margin-right: auto;
+}
+h1{
+    font-size: 38pt;
+    background:#1ABC9C;
+    border:15pt inset  #34495E;
+    color: #FDFEFE;
+    font-family: serif;
+    text-align: center;
+    border-color: #34495E;
+}
+h2{
+    font-size: 28pt;
+    background:#F1C40F;
+    border:15pt inset  #D35400;
+    color: #2E4053;
+    font-family: serif;
+    text-align: center;
+    border-color: #C0392B;
+}
+.a1{
+    font-size: 38pt;
+    background:#F707AE;
+    border:15pt inset  #00DEC3;
+    color: #000000;
+    font-family: serif;
+    text-align: center;
+    border-color: #34495E;
+}
+.a2{
+    font-size: 20pt;
+    background:#009BFF;
+    border:15pt inset  #C900FF;
+    color: #2E4053;
+    font-family: serif;
+    text-align: center;
+    border-color: #FF0078;
+}
+p{
+    font-size: 14pt;
+    color: black;
+    font-family: serif;
+    font-style: oblique;
+    font-display: fallback;
+    font-weight: 400;
+}
+.izquierda2
+{
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+    width: 120px;
+    float:right;
+    align-content: center
+}
+.izquierda
+{
+    border:6pt double #000000;
+    background: #FCD16E;
+    margin: auto;
+    padding: inherit;
+    width: 120px;
+    float:left;
+    align-content: center
+}
